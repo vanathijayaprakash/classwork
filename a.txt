@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is A4AC-9906
+
+ Directory of C:\Users\vanat\classwork\classwork
+
+09-02-2026  14:36    <DIR>          .
+09-02-2026  14:21    <DIR>          ..
+09-02-2026  14:36                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  104,653,668,352 bytes free
